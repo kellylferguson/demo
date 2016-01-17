@@ -1,2 +1,2 @@
 # demo
-kellylferguson.github.io/demo
+http://kellylferguson.github.io/demo
